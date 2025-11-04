@@ -23,10 +23,11 @@ A simple and functional Event Management System built using PHP, MySQL, HTML, CS
 Screenshots
 | Homepage | Services | Contact |
 |-----------|-----------|----------|
-| ![Homepage](home.png) | ![CreateEvent](createvent.png) | ![Message](msgs-page.png) |  ![EditEvent](allevent.png) |
+| ![Homepage](home.png) | ![CreateEvent](createvent.png) | ![Message](msgs.png) |  ![EditEvent](allevent.png) |
 
 My Role:
 **Full Stack Web Developer**
+
 
 
 
