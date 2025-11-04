@@ -19,13 +19,19 @@ A simple and functional Event Management System built using PHP, MySQL, HTML, CS
 - HTML5, CSS3
 - JavaScript
 - Basic File Handling
-
+  
+Screenshots
+| Homepage | Services | Contact |
+|-----------|-----------|----------|
+| ![Homepage](home.png) | ![CreateEvent](createvent.png) | ![Message](msgs-page.png) |  ![EditEvent](allevent.png) |
 
 My Role:
 **Full Stack Web Developer**
 
-- Developed complete front-end and back-end
-- Created dynamic event features using PHP and MySQL
-- Designed responsive UI with CSS
-- Implemented user authentication and CRUD operations
+
+
+
+
+
+
 
